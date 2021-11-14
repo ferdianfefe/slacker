@@ -1,6 +1,6 @@
 # slacker
 
-A social network app with realtime chat feature. Built using MEVN stack. Inspired by Twitter.
+A social networking app with realtime chat feature. Built using MEVN stack. Inspired by Twitter.
 
 <b>npm install</b>
 to install all the dependencies
